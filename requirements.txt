@@ -1,0 +1,11 @@
+nltk
+Image
+pandas
+numpy
+transformers
+scikit-learn
+torch
+torchvision
+tqdm
+pytesseract
+tkinter

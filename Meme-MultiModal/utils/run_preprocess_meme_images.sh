@@ -1,0 +1,1 @@
+python preprocess_meme_images.py --meme_image_dir=data/memes/
