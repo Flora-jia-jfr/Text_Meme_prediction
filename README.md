@@ -1,6 +1,8 @@
 # EMeme
 CSCI499 Final Project: EMeme
 
+> Author: Furong(Flora) Jia & Tianyi(Lorena) Yan
+
 ## Clone repo & Install requirements:
 ```
 git clone git@github.com:Lorenayannnnn/CSCI-499-Text-Meme-Prediction.git
